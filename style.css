@@ -1,7 +1,7 @@
 /* Variáveis CSS */
 :root {
     --primary-color: #3498db; /* Azul principal */
-    --secondary-color: #203849; /* Azul secundário */
+    --secondary-color: #206ca2; /* Azul secundário */
     --text-color: #151313; /* Cor do texto */
     --background-color: #ecf0f1; /* Cor de fundo */
 }
@@ -28,7 +28,7 @@ body {
 
 header, footer {
     background-color: var(--primary-color);
-    color: var(--secondary-color);
+    color: var(--text-color);
     padding: 10px 0;
     text-align: center;
 }
